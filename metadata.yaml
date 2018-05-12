@@ -1,0 +1,32 @@
+_repo: Observations-on-the-Present-State-of-the-Affairs-of-the-River-Plate_33322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Baines, Thomas
+    birthdate: 1806
+    deathdate: 1881
+    gutenberg_agent_id: '36331'
+    url: http://www.gutenberg.org/2009/agents/36331
+description: Appendix. Correspondence of H.J. Mandeville, Esq., British minister to
+  the Argentine Federation, with Senhor Vidal, secretary of state of the republic
+  of Uruguay.
+gutenberg_issued: '2010-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina'
+- !lcsh 'Uruguay -- Foreign relations -- Argentina'
+- !lcsh 'International relations'
+- !lcsh 'Uruguay'
+- !lcc 'F2801'
+- !lcsh 'Argentina -- Foreign relations -- Uruguay'
+title: Observations on the Present State of the Affairs of the River Plate
+url: http://www.gutenberg.org/ebooks/33322
